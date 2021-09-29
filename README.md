@@ -4,6 +4,7 @@ This project is part of study-project at TU Dortmund Informatik XII: Deploying a
 This project is a prototype of distributed machine learning deployed on a drone swarm.
 Each node of the swarm runs an instance of random forest and supplies the classifications via Bluetooth to the central node.
 The central node controls the swarm and communication by following the Host-Client-Pattern.
+The original repository can be found in: https://github.com/SaschaWeller/FP-Swarm
 
 ## The Hardware 
 For this project we used the STM32 F407 Discovery Board as MCU for the nodes of the swarm.
