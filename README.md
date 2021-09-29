@@ -1,9 +1,10 @@
 ﻿# FP-Swarm
-This project is part of study-project at TU Dortmund Informatik XII: Deploying a distributed machine learning model on a swarm. 
+This project is part of study-project at TU Dortmund Informatik XII: Deploying a distributed machine learning model on a swarm, supervised by Junjie Shi.
 ## About
 This project is a prototype of distributed machine learning deployed on a drone swarm.
 Each node of the swarm runs an instance of random forest and supplies the classifications via Bluetooth to the central node.
 The central node controls the swarm and communication by following the Host-Client-Pattern.
+Students/Controbutors: Ben Raffetseder, Jan Marre, Lukas Schneider, and Sascha Weller.
 The original repository can be found in: https://github.com/SaschaWeller/FP-Swarm
 
 ## The Hardware 
